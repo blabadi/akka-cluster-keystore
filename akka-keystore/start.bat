@@ -1,0 +1,2 @@
+start cmd /k  java "-Dakka.remote.netty.tcp.port=2551" -jar ./target/akka-keystore-1.0-SNAPSHOT-allinone.jar
+start cmd /k  java "-Dakka.remote.netty.tcp.port=2552" -jar ./target/akka-keystore-1.0-SNAPSHOT-allinone.jar
